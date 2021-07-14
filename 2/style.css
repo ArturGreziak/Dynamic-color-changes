@@ -4,13 +4,13 @@ body {
   box-sizing: border-box;
 }
 
-.wrpper {
+.wrappe {
   width: vh;
   height: vh;
   color: #ffffff;
 }
 
-.mainNavigation {
+.div-color {
   width: 100%;
   height: 80px;
   background-color: #000fff;
@@ -24,7 +24,7 @@ body {
   align-items: center;
 }
 
-.li {
+.lis {
   width: 140px;
   display: inline-block;
   margin-top: 35px;
@@ -102,4 +102,8 @@ h2 {
   height: 72px;
   background-color: #000000;
   margin-top: 10px;
+}
+
+.colText {
+  color: #000000;
 }
